@@ -1,0 +1,89 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+ 
+    background-color: rgba(137, 43, 226, 0.26);
+}
+
+.main-bg-color{
+    background-color: #ECF0F4;
+    height: 100vh;
+    
+}
+
+.nav{
+    background-color: white;
+    /* height: 1px; */
+    
+}
+
+h3 .float-right{
+    float: right;
+}
+
+.registration-heading {
+    float: right;
+}
+
+.main_img{
+    background-image: url("001.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.main_img_r{
+    background-image: url("./r001.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.reg_crd{
+    background-color: #7c7c7c9f;
+    border-radius: 20px ;
+   
+
+}
+
+.register_box{
+    background-image: url("./registration_box.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 70px;
+}
+
+
+.register_box1{
+    background-image: url("./wl_001.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100px;
+}
+
+
+.g_btn{
+    font-weight: 700;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+}
+
+/* input[type="text"]{
+    border: none;
+    border-bottom: 1px solid rgb(0, 0, 0);
+    outline: none;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+} */
+
+
+label{
+    font-weight: 500;
+    font-size: 18px;
+    color: rgba(34, 33, 33, 0.726);
+}

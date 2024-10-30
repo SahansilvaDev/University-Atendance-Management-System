@@ -1,0 +1,33 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.main-bg-color{
+    background-color: #ECF0F4;
+    height: 100vh;
+    
+}
+
+.nav{
+    background-color: white;
+    height: 50px;
+    
+}
+
+h3 .float-right{
+    float: right;
+}
+
+.registration-heading {
+    float: right;
+}
+
+.main_img{
+    background-image: url("001.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}

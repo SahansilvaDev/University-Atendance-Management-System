@@ -1,0 +1,17 @@
+.container {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.chat-box {
+    height: 300px;
+    overflow-y: scroll;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+button {
+    margin-top: 10px;
+}

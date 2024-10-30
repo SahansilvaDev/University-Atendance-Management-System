@@ -1,0 +1,75 @@
+.qr_setup {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    height: auto;
+    margin: 0;
+  }
+
+  .card {
+    width: auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+   
+    text-align: center;
+  }
+
+  .bold-text {
+    font-weight: bold;
+    color: #333;
+  }
+
+  /* 4 crd  */
+  .sm_crd {
+    display: flex;
+    align-items: center;
+    margin: 0;
+  }
+
+  .card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20px;
+ 
+  }
+
+  .card1 {
+    width: 40px;
+    height: 40px;
+    margin: 0 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Arial', sans-serif;
+    font-size: 18px;
+    cursor: pointer;
+    text-align: center;
+    transition: background-color 0.3s;
+    font-weight: 600;
+  }
+
+  .card1:hover{
+    border: solid 2px #333;
+    
+  }
+
+  .card1:focus {
+    background-color: #C6D7FF; /* Green color */
+  }
+
+
+  /* atend_fing_img */
+
+  .atend_fing_img,
+  img , .sm_crd{
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
